@@ -1,0 +1,13 @@
+parcel_id,item,destination,deadline,priority,weight,value,volume
+P01,Laptop,Delhi,2026-10-08,High,8,85000,4.0
+P02,Books,Gurgaon,2026-10-10,Medium,12,12000,2.0
+P03,Medicine,Noida,2026-10-07,Critical,5,25000,1.5
+P04,Clothes,Faridabad,2026-10-09,Medium,10,18000,3.0
+P05,Documents,Ghaziabad,2026-10-08,High,6,5000,1.0
+P06,Electronics,Delhi,2026-10-11,Low,15,30000,5.0
+P07,Gifts,Gurgaon,2026-10-09,High,7,10000,2.5
+P08,Shoes,Noida,2026-10-12,Low,9,9000,3.5
+P09,Camera,Delhi,2026-10-08,High,11,60000,4.5
+P10,Food Package,Faridabad,2026-10-07,Critical,4,3500,2.0
+P11,Printer Parts,Ghaziabad,2026-10-10,Medium,8,14000,3.0
+P12,Toys,Gurgaon,2026-10-13,Low,14,7000,2.5
